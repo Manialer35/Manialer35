@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Neeraj 👋
 
-<!--
-**Manialer35/Manialer35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Data Science student at Trier University, Germany** · B.Tech Computer Science (CGPA 8.8/10)
 
-Here are some ideas to get you started:
+I build things, and I'm now learning the fundamentals behind them properly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm working on
+- **GPS-denial-resilient drone navigation** (self-directed, early stage): learning sensor fusion with Kalman filters. Next steps: a Python implementation, then testing in simulation. Defensive and simulation-only.
+- **MIRO**: a Python desktop voice assistant (edge-tts, a local language model via Ollama, a spoken morning briefing).
+
+### 📚 What I'm learning this semester
+Java · Databases and SQL · Statistics with R · Mathematics for Data Science · German
+
+### 🛠️ Tools I use
+Python · Java · R · SQL · Git/GitHub · HTML/CSS · Firebase · Supabase · Linux · Excel
+
+### 💼 Background
+- 3 years of freelance web and Android projects (50+ clients), mostly built with AI-assisted development
+- Founder of Introvertise, an AI video-advertising startup I ran solo for 5-6 months
+
+### 📫 Open to
+Working-student (Werkstudent), student-assistant (HiWi) and part-time roles in **data or IT** in Germany: remote, hybrid, or on-site in Rhineland-Palatinate, Saarland, Hesse or NRW.
+
+[LinkedIn](https://www.linkedin.com/in/madkarneeraj35) · neerajmadkar35@gmail.com
